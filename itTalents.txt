@@ -1,0 +1,62 @@
+JAVA Basics:
+Lesson 1 - Welcome, Introduction to programming. Compilers and interpreters. JVM, JRE, JDK. - https://www.youtube.com/watch?v=DvphYI4JmLU
+Lesson 2 - Primitive data types. Operators. Numeral Systems. If-else statement - https://www.youtube.com/watch?v=WavkNaLDYFg
+Lesson 3 - Loops - https://www.youtube.com/watch?v=i2cbMxSVc6w
+Lesson 4 - Practice on Loops - https://www.youtube.com/watch?v=1MPX-dbZO1U
+Lesson 5 - Arrays - https://www.youtube.com/watch?v=Tzyy9xlP1aM
+Lesson 6 - 2D Arrays - https://www.youtube.com/watch?v=xEKrW-r8Rfw
+Lesson 7 - Practice on Arrays - https://www.youtube.com/watch?v=9EbFdwMCj4k
+Lesson 8 - Strings. Methods - https://www.youtube.com/watch?v=zitafvEE3q8
+Lesson 9 - Recursion - https://www.youtube.com/watch?v=sHTi1Ge5RX8
+Lesson 10 - Algorithms. Complexity. BubbleSort. SelectionSort - https://www.youtube.com/watch?v=ehXJr7CjeVc
+Lesson 11 - CountingSort. Divide and Conquer. Binary Search. QuickSort - https://www.youtube.com/watch?v=_DR77EfKpE0
+
+
+JAVA OOP:
+Lesson 13 - OOP. Classes and Objects. - https://www.youtube.com/watch?v=KhuWNnfV1-E
+Lesson 14 - Constructors, Encapsulation. Access Modifiers. Static and Final - https://www.youtube.com/watch?v=-0jqKd2XHUo
+Lesson 15 - Inheritance - https://www.youtube.com/watch?v=2BDF5PEW6gM
+Lesson 16 - Practice. - https://www.youtube.com/watch?v=lhAz3iLucPQ
+Lesson 17 - Abstraction. Polymorphism. - https://www.youtube.com/watch?v=y_RPiYAZmE0
+Lesson 18 - Polymorphism. Practice - https://www.youtube.com/watch?v=Nz6JQgH-ZZc
+Lesson 19 - Practice - https://www.youtube.com/watch?v=sALkTXtLTk0   https://www.youtube.com/watch?v=MzwrmXI3Cc4
+Lesson 20 - Nested Classes. Lambdas. Date and Time - https://www.youtube.com/watch?v=mp7Aukc9dhE
+Lesson 21 - Data Structures. Introduction to Collections - https://www.youtube.com/watch?v=JkFS1ID0GpM
+Lesson 22 - More on Collections. HashTable. Maps. Boxing. Iterators. Comparators. Streams. - https://www.youtube.com/watch?v=Arx7c5Ao_W0
+Lesson 23 - Practice - https://www.youtube.com/watch?v=0071ymyu7mQ   https://www.youtube.com/watch?v=riDhghV2MRc
+Lesson 24 - More Practice - https://www.youtube.com/watch?v=TEtbT9H7Pas
+
+
+JAVA Advanced:
+Lesson 27 - Exceptions - https://www.youtube.com/watch?v=M24nzDbFPqU
+Lesson 28 - Design Patterns - https://www.youtube.com/watch?v=lBnhSXo5gbI
+Lesson 29 - Threads 1 - https://www.youtube.com/watch?v=UeVdu9VrG6k
+Lesson 30 - More on Threads - https://www.youtube.com/watch?v=wpQbvGrLSGE
+Lesson 31 - Practice on Threads - https://www.youtube.com/watch?v=oJ-y1MBc0H0   https://www.youtube.com/watch?v=xb9wNBXxkq8
+Lesson 32 - GIT - https://www.youtube.com/watch?v=chilUDWkNqo    https://www.youtube.com/watch?v=R-FLeWfjYKQ
+Lesson 33 - Files - https://www.youtube.com/watch?v=OpokS5_EzWo
+Lesson 34 - More on Files. XML, Json. Maven. - https://www.youtube.com/watch?v=vAJLTA1QDEc
+Lesson 35 - Practice on Threads and Files. Warehouse task. - https://www.youtube.com/watch?v=nC4XwrKNrkw
+
+
+Database:
+Lesson 36 - Introduction to RDBMS - https://www.youtube.com/watch?v=4IXUemJt32s
+Lesson 37 - Introduction to SQL. Select statement. Joins. - https://www.youtube.com/watch?v=tpnk6jc81X4
+Lesson 38 - Advanced SQL. DDL and DML queries - https://www.youtube.com/watch?v=c89lDN0XtWU
+Lesson 39 - JDBC. Transactions - https://www.youtube.com/watch?v=Xs3LgbrUwVQ
+Lesson 40 - Practice on DB. DAO design pattern - https://www.youtube.com/watch?v=BuIdRM99Vws
+
+
+WEB:
+Lesson 43 - HTTP - https://www.youtube.com/watch?v=MwqCs-Bqxfc
+Lesson 44 - How Web applications work. Tomcat. Servlet. Sessions. Cookies - https://www.youtube.com/watch?v=P3wJdxEYN4M
+
+
+SPRING Framework:
+Lesson 45 - Introduction to Spring. MVC. DAO. DTO. Controllers. - https://www.youtube.com/watch?v=Ngka2UIELCk
+Lesson 46 - Spring MVC Best Practices. Urls. Endpoints. Services. ORM. Hibernate - https://www.youtube.com/watch?v=j6HPs9iDYoI
+Lesson 47 - Spring - Many to Many handling in Hibernate. Uploads handling. - https://www.youtube.com/watch?v=n8z_Ds_zgP4
+
+BONUS 1 - JSON, Postman, MVC, DAO. MVC and Postman are the important part here - https://www.youtube.com/playlist?list=PLPRaPR8amWjVxb9V1fpvRZ3QaXHui4mli
+BONUS 2 - Sessions, Cookies (with examples) and introduction to Spring with configuration - https://www.youtube.com/playlist?list=PLPRaPR8amWjWwyJ8IEvsXodrKscD03_BF
+BONUS 3 - Practice on Spring project with essential theory - https://www.youtube.com/playlist?list=PLPRaPR8amWjV1HZC8N7wFZVJ1CKhYq7qX
